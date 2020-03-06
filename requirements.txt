@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 numpy
 ipywidgets
-=======
-numpy
-ipywidgets
->>>>>>> 47e86b120e3b9575ff36d289753632442baf9573
 nbinteract
